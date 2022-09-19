@@ -1,0 +1,6 @@
+1,contractor,Ryan,0815498395,ryan@gmail.com,Citrusdal
+2,contractor,Lee,0615489653,lee@gmail.com,Lambertsbaai
+3,contractor,0792245679,n/a,vernon@gmail.com
+1,Ryan,Shop,Shop,7896,2000000,1000000,16/08/2022,22/06/2024,No
+5,Roche,House,Asla,89875,6000,4000,22/08/2022,06/12/2024,No
+2,Vecolin,House,House,4586,500000,500000,13/08/2022,10/10/2024,Yes
